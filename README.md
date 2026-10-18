@@ -38,7 +38,7 @@ To engineer a robust, scalable and interpretable deep-learning architecture that
 
 ### Astrophysical objectives
 1. **Accelerate blind survey discovery** of rare intervening 21-cm H I absorbers in ASKAP FLASH and MeerKAT MALS.
-2. **Trace the cosmic evolution of cold gas:** measure the cosmological H I mass density Ω_HI at 0.4 < z < 1.0.
+2. **Trace the cosmic evolution of cold gas:** measure the cosmological H I mass density Ω_HI at the local Universe.
 3. **Characterise absorber kinematics:** velocity widths and temperature phase (Cold vs Warm Neutral Medium, CNM vs WNM).
 4. **Eliminate the human bottleneck:** reach a false-alarm rate (FAR) acceptable for survey-scale deployment (target < 0.1 false positives per MHz).
 

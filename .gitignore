@@ -1,0 +1,22 @@
+# MALS DR3 spectra: not redistributed; regenerate with data_extraction.py + data_unzipping.py
+mals_spectra_downloads_lspw_10/
+mals_spectra_extracted_lspw_10/
+mals_spectra_downloads_high_z/
+mals_spectra_extracted_high_z/
+*.tgz
+*.tar.gz
+
+# Derived spectral arrays (rebuilt by main.ipynb, Step 3)
+empirical_baselines_1024.npy
+
+# MALS source catalogues (download from the MALS portal; too large for git)
+catalogue_malsdr3v1_all.csv
+catalogue_malsdr1v3_all.csv
+
+# Editor / environment
+.qodo/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
